@@ -41,15 +41,23 @@ margin: 20px
 }
 
 nav{
+    padding: 30px;
     border-bottom: 1px solid rgb(156, 156, 156);
 }
 
-button{
-    margin: 10px;
+#button-1{
     background-color: #43abf0;
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 10px 32px;
     border-radius: 5%;
-
 }
+
+#button-2{
+    background-color: white;
+    border: 1px solid grey;
+    color: grey;
+    padding: 10px 32px;
+    border-radius: 5%;
+}
+
