@@ -91,3 +91,11 @@ span{
     border: 1px solid red;
     border-radius: 50%;
 }
+
+.box-blue{
+    color: white;
+    background-color: #43abf0;
+    padding: 5px;
+    border-radius: 20%;
+    font-size: 10px;
+}
