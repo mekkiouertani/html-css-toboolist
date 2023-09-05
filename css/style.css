@@ -85,11 +85,15 @@ span{
     border: 1px solid green;
     border-radius: 50%;
     color: green;
+    font-size: 10px;
+    padding: 6px;
 }
 
 .cross{
     border: 1px solid red;
     border-radius: 50%;
+    font-size: 9px;
+    padding: 4px;
 }
 
 .box{
