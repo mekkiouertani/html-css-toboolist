@@ -92,57 +92,35 @@ span{
     border-radius: 50%;
 }
 
-.box-blue{
+.box{
     color: white;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 10px;
+    margin: 3px;
+}
+
+.bg-blue{ 
     background-color: #43abf0;
-    padding: 5px;
-    border-radius: 10px;
-    font-size: 10px;
-    margin: 3px;
 }
 
-.box-purple{
-    color: white;
+.bg-purple{
     background-color: #9e15ee;
-    padding: 5px;
-    border-radius: 10px;
-    font-size: 10px;
-    margin: 3px;
 }
 
-.box-green{
-    color: white;
+.bg-green{
     background-color: #009e42;
-    padding: 5px;
-    border-radius: 10px;
-    font-size: 10px;
-    margin: 3px;
 }
 
 
-.box-orange{
-    color: white;
+.bg-orange{
     background-color: #ec8a08;
-    padding: 5px;
-    border-radius: 10px;
-    font-size: 10px;
-    margin: 3px;
 }
 
-.box-rose{
-    color: white;
+.bg-rose{
     background-color: #e02d69;
-    padding: 5px;
-    border-radius: 10px;
-    font-size: 10px;
-    margin: 3px;
 }
 
-.box-lightgreen{
-    color: white;
+.bg-lightgreen{
     background-color: #769e42;
-    padding: 5px;
-    border-radius: 10px;
-    font-size: 10px;
-    margin: 3px;
 }
