@@ -14,6 +14,7 @@ body{
     background-color: white;
     height: 8vh;
     padding: 10px 20px;
+    margin-bottom: 50px;
 }
 
 .banner img{
@@ -28,3 +29,25 @@ body{
 
 /* END-HEADER */
 
+main{
+    width: 80%;
+    height: 85vh;
+    margin: auto;
+    background-color: white;
+    border-radius: 1%;
+}
+.container{
+margin: 20px
+}
+
+nav{
+    border-bottom: 1px solid rgb(156, 156, 156);
+}
+
+button{
+    background-color: #43abf0;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+
+}
