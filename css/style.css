@@ -5,8 +5,9 @@
 }
 
 body{
-    background-color: #b8b8b8;
+    background-color: #e7e7e7;
 }
+
 
 /* HEADER */
 
@@ -18,7 +19,7 @@ body{
 }
 
 .banner img{
-    vertical-align: sub;
+    vertical-align: top;
 }
 
 .banner h1{
@@ -27,8 +28,8 @@ body{
     font-size: 40px;
 }
 
-/* END-HEADER */
 
+/* MAIN AND CONTAINER */
 main{
     width: 80%;
     min-height: 85vh;
@@ -37,33 +38,41 @@ main{
     border-radius: 1%;
     font-family: 'Kanit', sans-serif;
     line-height: 2.5em;
+    color: #3b4049;
 }
+
 .container{
 margin: 20px
 }
 
 /* NAV-contiene i 2 buttons */
+
 nav{
-    padding: 30px;
-    border-bottom: 1px solid rgb(156, 156, 156);
+    padding: 10px 30px 10px 30px;
+    border-bottom: 1px solid #e7e7e7;;
 }
 
-#button-1{
-    background-color: #43abf0;
-    border: none;
-    color: white;
+.button{
     padding: 10px 32px;
     border-radius: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
 }
 
-#button-2{
+.n-1{ /*button n-1*/
+    background-color: #43abf0;
+    border: none;
+    color: white;   
+}
+
+.n-2{ /*button n-2*/
     background-color: white;
     border: 1px solid grey;
     color: grey;
-    padding: 10px 32px;
-    border-radius: 5%;
 }
-/* END-NAV*/
+
+
+/* ONORDER LIST*/
 
 ol{
     padding: 30px;
@@ -75,10 +84,12 @@ ol{
     font-weight: bold;
 }
 
+
+/* SYMBOL CHECK CROSS */
+
 span{
     padding: 3px;
-    margin-right: 15px;
-    
+    margin-right: 15px;    
 }
 
 .check{
@@ -95,6 +106,9 @@ span{
     font-size: 9px;
     padding: 4px;
 }
+
+
+/* BOX BACKGROUND */
 
 .box{
     color: white;
