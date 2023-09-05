@@ -96,6 +96,53 @@ span{
     color: white;
     background-color: #43abf0;
     padding: 5px;
-    border-radius: 20%;
+    border-radius: 10px;
     font-size: 10px;
+    margin: 3px;
+}
+
+.box-purple{
+    color: white;
+    background-color: #9e15ee;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 10px;
+    margin: 3px;
+}
+
+.box-green{
+    color: white;
+    background-color: #009e42;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 10px;
+    margin: 3px;
+}
+
+
+.box-orange{
+    color: white;
+    background-color: #ec8a08;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 10px;
+    margin: 3px;
+}
+
+.box-rose{
+    color: white;
+    background-color: #e02d69;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 10px;
+    margin: 3px;
+}
+
+.box-lightgreen{
+    color: white;
+    background-color: #769e42;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 10px;
+    margin: 3px;
 }
