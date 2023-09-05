@@ -45,9 +45,11 @@ nav{
 }
 
 button{
+    margin: 10px;
     background-color: #43abf0;
     border: none;
     color: white;
     padding: 15px 32px;
+    border-radius: 5%;
 
 }
