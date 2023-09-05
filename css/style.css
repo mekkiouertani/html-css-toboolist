@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #b8b8b8;
+}
+
+/* HEADER */
+
+.banner{
+    background-color: white;
+    height: 8vh;
+    padding: 10px 20px;
+}
+
+.banner img{
+    vertical-align: sub;
+}
+
+.banner h1{
+    display: inline;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+}
+
+/* END-HEADER */
+
