@@ -35,11 +35,13 @@ main{
     margin: auto;
     background-color: white;
     border-radius: 1%;
+    font-family: 'Kanit', sans-serif;
 }
 .container{
 margin: 20px
 }
 
+/* NAV-contiene i 2 buttons */
 nav{
     padding: 30px;
     border-bottom: 1px solid rgb(156, 156, 156);
@@ -60,4 +62,30 @@ nav{
     padding: 10px 32px;
     border-radius: 5%;
 }
+/* END-NAV*/
 
+ol{
+    padding: 30px;
+    list-style: none;
+}
+
+.li-title{
+    font-size: 1.5em; 
+    font-weight: bold;
+}
+
+span{
+    padding: 3px;
+    
+}
+
+.check{
+    border: 1px solid green;
+    border-radius: 50%;
+    color: green;
+}
+
+.cross{
+    border: 1px solid red;
+    border-radius: 50%;
+}
