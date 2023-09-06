@@ -42,13 +42,13 @@ main{
 }
 
 .container{
-margin: 20px
+margin-left: 20px
 }
 
 /* NAV-contiene i 2 buttons */
 
 nav{
-    padding: 10px 30px 10px 30px;
+    padding: 10px 30px 10px 50px;
     border-bottom: 1px solid #e7e7e7;;
 }
 
